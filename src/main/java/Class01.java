@@ -6,5 +6,7 @@ public class Class01 {
 
 // versiyon 2
         System.out.println("versiyon 2 kodlari");
+
+        System.out.println("github deneme ");
     }
 }
